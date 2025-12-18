@@ -148,4 +148,4 @@ Tudo o que o HPS Browser faz, o CLI **também faz**, apenas trocando cliques por
 ## 💡 Créditos
 
 Feito com ❤️ pela [Thaís](https://github.com/op3ny)
-Boa exploração! 🚀
+, boa exploração! 🚀
