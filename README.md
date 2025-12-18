@@ -10,7 +10,7 @@ Se o HPS Browser é a porta visual da rede, o **HPS CLI é o motor invisível po
 
 # Documentação técnica
 
-Espera? Você é desenvolvedor(a) e deseja entender mais a fundo como essa aplicação funciona? [Clique aqui!](#)
+Espera, você é desenvolvedor(a) e deseja entender mais a fundo como essa aplicação funciona? [Clique aqui!](https://github.com/Hsyst/hps-cli/blob/main/doc-tecnica.md)
 
 ## 🧠 O que é o HPS CLI?
 
